@@ -1,0 +1,57 @@
+
+main 
+{
+    background-color: #33302e;
+    color: #e0be15ab;
+}
+
+body 
+{
+    font-family: "Crimson Text", serif;
+    font-size: 2rem;
+    background-color: #33302e;
+    color: #e0be15ab;
+}
+.navbar 
+{
+    background-color: #000000;
+    color:  #e0be15ab;
+}
+
+.header .navbar .navbar-nav a 
+{
+    
+    color:#e0be15ab ;
+}
+.footer 
+
+{
+    background-color: #000000;
+}
+    
+.footer-content 
+{
+    display: flex;
+    justify-content: center;
+    
+    color:  #e0be15ab;
+    padding: 25px;
+        
+}
+nav 
+{
+    
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: #e0be15ab;
+    background-color: black;
+    justify-content: center;
+}
+ header 
+ {
+    
+    background-color: #343a40;
+ }
+ 
+

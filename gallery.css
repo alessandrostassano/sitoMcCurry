@@ -1,0 +1,87 @@
+
+.containercard
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.container 
+{
+  padding: 50px;  
+}
+
+.titolohumanportrait 
+{
+    margin-bottom: 2%;
+    border-bottom: solid 1px;
+    
+}
+.secondoblocco 
+{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.descrizioneworld 
+{
+ margin-top: 10px;
+}
+
+.descrizionefoto 
+{
+  background-color: black;
+  flex-wrap: nowrap;
+  
+}
+
+.terzoblocco 
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.navbar 
+{
+    background-color: #000000;
+    color:  #e0be15ab;
+}
+
+.header .navbar .navbar-nav a 
+{
+    
+    color:#e0be15ab;
+}
+.footer 
+
+{
+    background-color: #000000;
+}
+    
+.footer-content 
+{
+    display: flex;
+    justify-content: center;
+    
+    color:  #e0be15ab;
+    padding: 25px;
+        
+}
+.containercard img 
+{
+  onClick = "this.width=450;this.height=330;
+  ondblclick
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+  body {
+    background-color: olive;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+
+}

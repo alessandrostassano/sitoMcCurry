@@ -1,0 +1,54 @@
+.container 
+{
+    
+}
+.citazione 
+{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    
+}
+.navbar 
+{
+    background-color: #000000;
+    color:  #e0be15ab;
+}
+
+.header .navbar .navbar-nav a 
+{
+    
+    color:#e0be15ab ;
+}
+.footer 
+
+{
+    background-color: #000000;
+}
+    
+.footer-content 
+{
+    display: flex;
+    justify-content: center;
+    
+    color:  #e0be15ab;
+    padding: 25px;
+        
+}
+
+#carouselExampleIndicators 
+{
+    padding: 20px;
+}
+
+.frame 
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+h3 
+{
+    margin-left: 12%;
+}

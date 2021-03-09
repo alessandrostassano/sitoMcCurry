@@ -1,0 +1,117 @@
+.primaimmagine 
+{
+    align-items: center;
+    padding: 3%;
+    
+}
+
+.fotosteveuno img
+{
+    border: 5%;
+    border-radius: 5%;
+}
+
+.primotesto img 
+{
+    padding: 1rem 1rem 1rem 0rem;
+}
+.primotesto 
+{
+    padding: 5%;
+    margin-top: -5%;
+    
+    padding: ;
+}
+hr 
+{
+    color: #e0be15ab;w
+    width:"300";
+    noshade;
+}
+.dueim 
+{
+    padding: 0rem 1rem 1rem 1rem;
+}
+
+.div 
+{
+    color: #e0be15ab;
+    width: 2px;
+    height: 5px;
+}
+.flip-card {
+    background-color: transparent;
+    width: 300px;
+    height: 360px;
+    
+    perspective: 1000px; 
+  }
+  
+  
+.flip-card-inner {
+   
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+  }
+  
+ 
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden; 
+    backface-visibility: hidden;
+  }
+  
+  
+  .flip-card-front {
+   
+    color: black;
+  }
+  
+  
+  .flip-card-back {
+    background-color: black
+    color: white;
+    transform: rotateY(180deg);
+  }
+  center 
+  {
+    padding: 5%;
+  }
+  .navbar 
+{
+    background-color: #000000;
+    color:  #e0be15ab;
+}
+
+.header .navbar .navbar-nav a 
+{
+    
+    color:#e0be15ab;
+}
+.footer 
+
+{
+    background-color: #000000;
+    margin-top: -16px;
+}
+    
+.footer-content 
+{
+    display: flex;
+    justify-content: center;
+    
+    color:  #e0be15ab;
+    
+        
+}
+    
